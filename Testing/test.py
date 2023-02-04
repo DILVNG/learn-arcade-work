@@ -1,4 +1,5 @@
 print("What's up!")
 print("As the Sun started to settle.")
 print("The Moon came shining out!")
-
+print("Yo! The Sun says, \"Good Morning to the Moon.\"")
+print("Wayne Gretzky once said, \"You miss 100% of the shots you don't take!.\"")
